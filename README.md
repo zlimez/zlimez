@@ -1,5 +1,12 @@
 ## Hi there 👋
 🌱 I’m James, a fourth year student studying Computer Science at the National University of Singapore. My primary interest lies in games, graphics and algorithms. If you ever need a coder for Unity or Unreal game projects hit me up 😊!
+
+### Game projects
+- [Overstory](https://drive.google.com/file/d/1HLGddClJAxWIM6sZJ9Ab9s7s1GdhLZPk/view?usp=drive_link)
+- [Chronellium](https://www.youtube.com/watch?v=3dbmgaG4FkQ)
+- [PulsePace](https://www.youtube.com/watch?v=xekdqTA_4_Q)
+
+
 ### Languages and frameworks
 Languages:
 <p align="left">
